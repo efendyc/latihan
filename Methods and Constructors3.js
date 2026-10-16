@@ -36,3 +36,6 @@ const rect3 = new rectangle(40, 10);
 console.log(rect1.getArea()); 
 console.log(rect2.getArea()); 
 console.log(rect3.getArea()); 
+
+output:
+Hello, my name is John and I am 30 years old.
