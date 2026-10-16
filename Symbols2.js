@@ -11,4 +11,5 @@ for (const key in person) {
 }
 
 output:
-{ name: 'John', age: 30, Symbol(id): 12345 }
+name
+age
