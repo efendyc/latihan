@@ -6,3 +6,9 @@ const logMenu = () => {
 };
 
 logMenu();
+
+output:
+Menu:
+1. Fried Chicken
+2. Grilled Salmon
+3. Vegetable Stir Fry
