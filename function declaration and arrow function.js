@@ -24,3 +24,12 @@ console.log(`The sum is: ${add(num1, num2)}`);
 console.log(`The difference is: ${subtract(num1, num2)}`);
 console.log(`The product is: ${multiply(num1, num2)}`);
 console.log(`The quotient is: ${divide(num1, num2)}`);
+
+
+output:
+Enter the first number: 10
+Enter the second number: 5
+The sum is: 15
+The difference is: 5
+The product is: 50
+The quotient is: 2
