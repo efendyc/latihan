@@ -12,3 +12,7 @@ if (countryCode[code]) {
 } else {
     console.log("Country code not found.");
 }
+
+output:
+Enter a country code (e.g., US, CA, GB, AU, DE): AU
+The country for code AU is: Australia
