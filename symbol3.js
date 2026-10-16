@@ -10,3 +10,6 @@ person[id] = 12345;
 person[city] = "New York";
 
 console.log(person); 
+
+output:
+{ name: 'John', age: 30, Symbol(id): 12345, Symbol(city): 'New York' }
