@@ -6,3 +6,6 @@ const person = {
 };
 
 console.log(person);
+
+output:
+{ name: 'John', age: 30, Symbol(id): 12345 }
