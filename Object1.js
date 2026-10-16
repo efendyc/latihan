@@ -8,3 +8,7 @@ const person = {
 };
 
 person.greet();
+
+
+output:
+Hello, my name is John Doe, I am 30 years old, and I am a Software Developer.
