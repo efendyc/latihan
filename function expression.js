@@ -14,3 +14,7 @@ if (age >= 18) {
         }
     };
 logGreeting();
+
+output:
+What is your age? 10
+Hey kiddo!
