@@ -38,4 +38,6 @@ console.log(rect2.getArea());
 console.log(rect3.getArea()); 
 
 output:
-Hello, my name is John and I am 30 years old.
+100
+200
+400
